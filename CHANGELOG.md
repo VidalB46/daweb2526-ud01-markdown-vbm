@@ -2,8 +2,6 @@
 
 Este archivo documenta todos los cambios importantes realizados en el proyecto.  
 
-## [Unreleased]
-
 ### Added
 - Creación inicial del proyecto en GitHub.
 - Archivo `README.md` con ejemplos de sintaxis Markdown.
