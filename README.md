@@ -24,6 +24,8 @@
 
 [Esto va a ser un enlace al IES Alixar](https://sites.google.com/g.educaand.es/web-iesalixar-org)
 
+![Esto es una imagen](imagen/imagen.webp)
+
 > Esto es una cita 
 
 `System.out.println("Hola");`
@@ -40,4 +42,5 @@ public class Hola {
 |:-------|----:|:----------|
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
-Alineación: :--- izquierda, ---: derecha, :---: centro.
+
+[Ver CHANGELOG](CHANGELOG.md)
